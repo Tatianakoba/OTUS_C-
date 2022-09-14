@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\007_Virtual\bin\Debug\007_Virtual.exe.config
+C:\Users\Tatiana\source\repos\007_Virtual\bin\Debug\007_Virtual.exe
+C:\Users\Tatiana\source\repos\007_Virtual\bin\Debug\007_Virtual.pdb
+C:\Users\Tatiana\source\repos\007_Virtual\obj\Debug\007_Virtual.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\007_Virtual\obj\Debug\007_Virtual.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\007_Virtual\obj\Debug\007_Virtual.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\007_Virtual\obj\Debug\007_Virtual.exe
+C:\Users\Tatiana\source\repos\007_Virtual\obj\Debug\007_Virtual.pdb

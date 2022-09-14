@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\Tatiana\source\repos\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\Tatiana\source\repos\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Tatiana\source\repos\Interfaces\obj\Debug\001_Interfaces.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Interfaces\obj\Debug\001_Interfaces.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Interfaces\obj\Debug\001_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\Tatiana\source\repos\Interfaces\obj\Debug\Interfaces.pdb

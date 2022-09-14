@@ -1,0 +1,3 @@
+C:\Users\Tatiana\source\repos\005_SelfAssociation\obj\Debug\005_SelfAssociation.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\005_SelfAssociation\obj\Debug\005_SelfAssociation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\005_SelfAssociation\obj\Debug\005_SelfAssociation.csproj.CoreCompileInputs.cache

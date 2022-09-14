@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\004_Readonly\bin\Debug\004_Readonly.exe.config
+C:\Users\Tatiana\source\repos\004_Readonly\bin\Debug\004_Readonly.exe
+C:\Users\Tatiana\source\repos\004_Readonly\bin\Debug\004_Readonly.pdb
+C:\Users\Tatiana\source\repos\004_Readonly\obj\Debug\004_Readonly.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\004_Readonly\obj\Debug\004_Readonly.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\004_Readonly\obj\Debug\004_Readonly.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\004_Readonly\obj\Debug\004_Readonly.exe
+C:\Users\Tatiana\source\repos\004_Readonly\obj\Debug\004_Readonly.pdb

@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\008_Base.Method\bin\Debug\008_Base.Method.exe.config
+C:\Users\Tatiana\source\repos\008_Base.Method\bin\Debug\008_Base.Method.exe
+C:\Users\Tatiana\source\repos\008_Base.Method\bin\Debug\008_Base.Method.pdb
+C:\Users\Tatiana\source\repos\008_Base.Method\obj\Debug\008_Base.Method.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\008_Base.Method\obj\Debug\008_Base.Method.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\008_Base.Method\obj\Debug\008_Base.Method.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\008_Base.Method\obj\Debug\008_Base.Method.exe
+C:\Users\Tatiana\source\repos\008_Base.Method\obj\Debug\008_Base.Method.pdb

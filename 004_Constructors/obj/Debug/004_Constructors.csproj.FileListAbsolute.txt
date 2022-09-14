@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\004_Constructors\bin\Debug\004_Constructors.exe.config
+C:\Users\Tatiana\source\repos\004_Constructors\bin\Debug\004_Constructors.exe
+C:\Users\Tatiana\source\repos\004_Constructors\bin\Debug\004_Constructors.pdb
+C:\Users\Tatiana\source\repos\004_Constructors\obj\Debug\004_Constructors.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\004_Constructors\obj\Debug\004_Constructors.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\004_Constructors\obj\Debug\004_Constructors.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\004_Constructors\obj\Debug\004_Constructors.exe
+C:\Users\Tatiana\source\repos\004_Constructors\obj\Debug\004_Constructors.pdb

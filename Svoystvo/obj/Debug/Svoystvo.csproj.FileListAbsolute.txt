@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\Svoystvo\obj\Debug\Svoystvo.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Svoystvo\obj\Debug\Svoystvo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Svoystvo\obj\Debug\Svoystvo.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Svoystvo\bin\Debug\Svoystvo.exe.config
+C:\Users\Tatiana\source\repos\Svoystvo\bin\Debug\Svoystvo.exe
+C:\Users\Tatiana\source\repos\Svoystvo\bin\Debug\Svoystvo.pdb
+C:\Users\Tatiana\source\repos\Svoystvo\obj\Debug\Svoystvo.exe
+C:\Users\Tatiana\source\repos\Svoystvo\obj\Debug\Svoystvo.pdb

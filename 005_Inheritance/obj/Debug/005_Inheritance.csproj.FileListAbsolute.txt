@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\005_Inheritance\bin\Debug\005_Inheritance.exe.config
+C:\Users\Tatiana\source\repos\005_Inheritance\bin\Debug\005_Inheritance.exe
+C:\Users\Tatiana\source\repos\005_Inheritance\bin\Debug\005_Inheritance.pdb
+C:\Users\Tatiana\source\repos\005_Inheritance\obj\Debug\005_Inheritance.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\005_Inheritance\obj\Debug\005_Inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\005_Inheritance\obj\Debug\005_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\005_Inheritance\obj\Debug\005_Inheritance.exe
+C:\Users\Tatiana\source\repos\005_Inheritance\obj\Debug\005_Inheritance.pdb

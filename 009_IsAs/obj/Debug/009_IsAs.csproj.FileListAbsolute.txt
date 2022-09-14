@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\009_IsAs\bin\Debug\009_IsAs.exe.config
+C:\Users\Tatiana\source\repos\009_IsAs\bin\Debug\009_IsAs.exe
+C:\Users\Tatiana\source\repos\009_IsAs\bin\Debug\009_IsAs.pdb
+C:\Users\Tatiana\source\repos\009_IsAs\obj\Debug\009_IsAs.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\009_IsAs\obj\Debug\009_IsAs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\009_IsAs\obj\Debug\009_IsAs.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\009_IsAs\obj\Debug\009_IsAs.exe
+C:\Users\Tatiana\source\repos\009_IsAs\obj\Debug\009_IsAs.pdb

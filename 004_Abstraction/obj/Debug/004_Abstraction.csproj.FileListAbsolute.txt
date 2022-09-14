@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\004_Abstraction\bin\Debug\004_Abstraction.exe.config
+C:\Users\Tatiana\source\repos\004_Abstraction\bin\Debug\004_Abstraction.exe
+C:\Users\Tatiana\source\repos\004_Abstraction\bin\Debug\004_Abstraction.pdb
+C:\Users\Tatiana\source\repos\004_Abstraction\obj\Debug\004_Abstraction.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\004_Abstraction\obj\Debug\004_Abstraction.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\004_Abstraction\obj\Debug\004_Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\004_Abstraction\obj\Debug\004_Abstraction.exe
+C:\Users\Tatiana\source\repos\004_Abstraction\obj\Debug\004_Abstraction.pdb

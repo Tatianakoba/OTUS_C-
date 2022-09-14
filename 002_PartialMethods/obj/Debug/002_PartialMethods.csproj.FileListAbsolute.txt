@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\002_PartialMethods\bin\Debug\002_PartialMethods.exe.config
+C:\Users\Tatiana\source\repos\002_PartialMethods\bin\Debug\002_PartialMethods.exe
+C:\Users\Tatiana\source\repos\002_PartialMethods\bin\Debug\002_PartialMethods.pdb
+C:\Users\Tatiana\source\repos\002_PartialMethods\obj\Debug\002_PartialMethods.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\002_PartialMethods\obj\Debug\002_PartialMethods.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\002_PartialMethods\obj\Debug\002_PartialMethods.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\002_PartialMethods\obj\Debug\002_PartialMethods.exe
+C:\Users\Tatiana\source\repos\002_PartialMethods\obj\Debug\002_PartialMethods.pdb

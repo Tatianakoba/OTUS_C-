@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\OTUS C#\006_Constructors\bin\Debug\006_Constructors.exe.config
+C:\Users\Tatiana\source\repos\OTUS C#\006_Constructors\bin\Debug\006_Constructors.exe
+C:\Users\Tatiana\source\repos\OTUS C#\006_Constructors\bin\Debug\006_Constructors.pdb
+C:\Users\Tatiana\source\repos\OTUS C#\006_Constructors\obj\Debug\006_Constructors.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\OTUS C#\006_Constructors\obj\Debug\006_Constructors.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\OTUS C#\006_Constructors\obj\Debug\006_Constructors.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\OTUS C#\006_Constructors\obj\Debug\006_Constructors.exe
+C:\Users\Tatiana\source\repos\OTUS C#\006_Constructors\obj\Debug\006_Constructors.pdb

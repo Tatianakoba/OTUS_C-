@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\OTUS C#\010_AutoProperties\bin\Debug\010_AutoProperties.exe.config
+C:\Users\Tatiana\source\repos\OTUS C#\010_AutoProperties\bin\Debug\010_AutoProperties.exe
+C:\Users\Tatiana\source\repos\OTUS C#\010_AutoProperties\bin\Debug\010_AutoProperties.pdb
+C:\Users\Tatiana\source\repos\OTUS C#\010_AutoProperties\obj\Debug\010_AutoProperties.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\OTUS C#\010_AutoProperties\obj\Debug\010_AutoProperties.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\OTUS C#\010_AutoProperties\obj\Debug\010_AutoProperties.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\OTUS C#\010_AutoProperties\obj\Debug\010_AutoProperties.exe
+C:\Users\Tatiana\source\repos\OTUS C#\010_AutoProperties\obj\Debug\010_AutoProperties.pdb
